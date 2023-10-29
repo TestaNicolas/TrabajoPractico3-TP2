@@ -1,0 +1,32 @@
+[
+	{
+		"id": "1",
+		"titulo": "Ejemplo 1",
+		"autor": "Autor 1",
+		"año": 2020
+	},
+	{
+		"id": "2",
+		"titulo": "Ejemplo 2",
+		"autor": "Autor 2",
+		"año": 2018
+	},
+	{
+		"id": "3",
+		"titulo": "Ejemplo 3",
+		"autor": "Autor 3",
+		"año": 2021
+	},
+	{
+		"id": "4",
+		"titulo": "Ejemplo 4",
+		"autor": "Autor 4",
+		"año": 2019
+	},
+	{
+		"id": "5",
+		"titulo": "Ejemplo 5",
+		"autor": "Autor 5",
+		"año": 2022
+	}
+]
